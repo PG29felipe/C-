@@ -1,0 +1,8 @@
+H:\C#\T2\A1\DataStructures_empty\DataStructures\bin\Debug\DataStructures.exe.config
+H:\C#\T2\A1\DataStructures_empty\DataStructures\bin\Debug\DataStructures.exe
+H:\C#\T2\A1\DataStructures_empty\DataStructures\bin\Debug\DataStructures.pdb
+H:\C#\T2\A1\DataStructures_empty\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+H:\C#\T2\A1\DataStructures_empty\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+H:\C#\T2\A1\DataStructures_empty\DataStructures\obj\Debug\DataStructures.exe
+H:\C#\T2\A1\DataStructures_empty\DataStructures\obj\Debug\DataStructures.pdb
+H:\C#\T2\A1\DataStructures_empty\DataStructures\obj\Debug\DataStructures.exe.config

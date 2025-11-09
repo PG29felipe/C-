@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\T2\\A1\\DataStructures_empty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|h:\\c#\\t2\\a1\\datastructures_empty\\datastructures\\structures\\linear\\nodes\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\structures\\linear\\nodes\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|H:\\C#\\T2\\A1\\DataStructures_empty\\datastructures\\structures\\linear\\nodes\\doublelinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\structures\\linear\\nodes\\doublelinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|H:\\C#\\T2\\A1\\DataStructures_empty\\datastructures\\structures\\linear\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\structures\\linear\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|H:\\C#\\T2\\A1\\DataStructures_empty\\datastructures\\testframework\\testoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\testframework\\testoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|h:\\c#\\t2\\a1\\datastructures_empty\\datastructures\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|H:\\C#\\T2\\A1\\DataStructures_empty\\datastructures\\testframework\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\testframework\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|H:\\C#\\T2\\A1\\DataStructures_empty\\datastructures\\structures\\linear\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\structures\\linear\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|H:\\C#\\T2\\A1\\DataStructures_empty\\datastructures\\structures\\linear\\circularlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\structures\\linear\\circularlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|H:\\C#\\T2\\A1\\DataStructures_empty\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1B9858-D627-491A-8608-81327CAE3F3A}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\TestFramework\\Test.cs",
+              "RelativeDocumentMoniker": "DataStructures\\TestFramework\\Test.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\TestFramework\\Test.cs",
+              "RelativeToolTip": "DataStructures\\TestFramework\\Test.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:08:04.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestOutput.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\TestFramework\\TestOutput.cs",
+              "RelativeDocumentMoniker": "DataStructures\\TestFramework\\TestOutput.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\TestFramework\\TestOutput.cs",
+              "RelativeToolTip": "DataStructures\\TestFramework\\TestOutput.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:07:59.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\TestRepository.cs",
+              "RelativeDocumentMoniker": "DataStructures\\TestRepository.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\TestRepository.cs",
+              "RelativeToolTip": "DataStructures\\TestRepository.cs",
+              "ViewState": "AgIAABUCAAAAAAAAAAAuwCkCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:59:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoubleLinkedList.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\DoubleLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Structures\\Linear\\DoubleLinkedList.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\DoubleLinkedList.cs",
+              "RelativeToolTip": "DataStructures\\Structures\\Linear\\DoubleLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:56:28.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoubleLinkedListNode.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\Nodes\\DoubleLinkedListNode.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Structures\\Linear\\Nodes\\DoubleLinkedListNode.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\Nodes\\DoubleLinkedListNode.cs",
+              "RelativeToolTip": "DataStructures\\Structures\\Linear\\Nodes\\DoubleLinkedListNode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:04:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingleLinkedList.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\SingleLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Structures\\Linear\\SingleLinkedList.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\SingleLinkedList.cs",
+              "RelativeToolTip": "DataStructures\\Structures\\Linear\\SingleLinkedList.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:55:55.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CircularLinkedList.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\CircularLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Structures\\Linear\\CircularLinkedList.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\CircularLinkedList.cs",
+              "RelativeToolTip": "DataStructures\\Structures\\Linear\\CircularLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:54:50.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Program.cs",
+              "RelativeToolTip": "DataStructures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:54:40.493Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Node.cs",
+              "DocumentMoniker": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\Nodes\\Node.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Structures\\Linear\\Nodes\\Node.cs",
+              "ToolTip": "H:\\C#\\T2\\A1\\DataStructures_empty\\DataStructures\\Structures\\Linear\\Nodes\\Node.cs",
+              "RelativeToolTip": "DataStructures\\Structures\\Linear\\Nodes\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:02:27.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
